@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 3;
+}
+
+html {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  min-height: 100vh;
+  width: 100vw;
+}
+
+body {
+  background-color: #d92e18;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.header-title {
+  text-align: center;
+}
+
+.header-subtitle-text {
+  font-weight: 600;
+  text-align: center;
+}
+
+
+.main {
+  
+  display: flex;
+  justify-content: center;
+}
