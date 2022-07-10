@@ -9,7 +9,7 @@ function MeuTodoList() {
   const mostrarALista = (event) => {
     const clone = [...list_mock];
     
-    console.log(clone);
+    console.log(clone);https:
   setListas(clone);
 };
     
